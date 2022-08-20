@@ -4,7 +4,7 @@ import './App.css';
 
 const currentSefira = 7
 
-const fractalDepth = (currentSefira < 5) ? 5 : 7
+const fractalDepth = 5
 const maxBranchCapacity = 6
 
 // Window Size
@@ -37,8 +37,8 @@ const netzachColor = '#4d3469'
 const hodColor = '#FFA400'
 const yesodColor = '#6B4B31'
 const malchutColor = '#101010'
-const keterColor = '#FFFFF0'
-const backgroundColor = '#FFFFF0'
+const keterColor = 'white'
+const backgroundColor = 'white'
 
 function App() {
 
@@ -287,7 +287,7 @@ function App() {
       }
 
       // MALCHUT + KETER
-      if (sefira >= 7 && branchCapacity === 6 && (depthRemaining !== 1 || level + 1 === fractalDepth)) {
+      if (sefira >= 7 && (level + 1 === fractalDepth || (branchCapacity === 6 && (depthRemaining !== 1)))) {
         ctx.beginPath();
         ctx.arc(centerX, centerY, radius * malchutRatio * 1.05, 0, 2 * Math.PI, false);
         ctx.fillStyle = keterColor;
