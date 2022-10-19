@@ -1,6 +1,53 @@
-# Getting Started with Create React App
+# Sefirot
+
+This app models and visualizes the seven lower sefirot ("numbers", translated literally) of Jewish metaphysics.
+
+The sefirot are very esoteric. Esoteric need to mean "unsystematic", as it often does in modern parlance. The sefirot, and the broader Kabbalistic system they are components of, has received as rigorous a treatment as any formal discipline. Notably, Leibniz, the famous mathematician and philosopher, was influenced by Kabbalah, and his mathematical and metaphysical [monads](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz#Monads) can be traced back to the Kabbalistic system of Rabbi Isaac Luria. Each sefirot can be understood as one of Leibniz's metaphysical monads.
+
+Metaphysical forces are principles, not postulates, and as such we should expect to find laws of nature that correspond to their demands. Modern physics has provided beautiful examples of such symmetry, so I have chosen English translations of the sefirot that evoke patterns evident in physics. The sefirot (like monads), are fractal structures, however, so correspondence should exist at every level of analysis -- mathematical, physical, chemical, biological, psychological and social. Plumbing the phenomenological world for these links is a very fun task! If you  think of a connection, please don't hesitate to reach out.
+
+## Visualizations
+
+### 1. Chesed: *(e.g. Cosmic Inflation)*
+`Existence expressing itself within existence`
+
+![chesed](./animations/1-chesed-chesed.gif)
+
+### 2. Gevurah: *(e.g. Dimension)*
+`The provision of boundaries in the expression of existence to create independence (in space, time, etc)`
+
+![gevurah](./animations/2-gevurah-chesed.gif)
+
+### 3. Tiferet: *(e.g. Fractal Structure)*
+`The perceivable connection between an existence and its expression`
+
+![tiferet](./animations/3-tiferet-chesed.gif)
+
+### 4. Netzach: *(e.g. Quantum Wave Functions)*
+`The assertion of value in the expression of existence through stochasticity`
+
+![netzach](./animations/4-netzach-chesed.gif)
+
+### 5. Hod: *(e.g. Energy)*
+`The recognition of existence in its expression actualizing some potentiality`
+
+![hod](./animations/5-hod-chesed.gif)
+
+### 6. Yesod: *(e.g. Nuclear Fusion)*
+`The provision of a channel between an existence and external reality such that sharing becomes the foundation through which existence expresses itself`
+
+![yesod](./animations/6-yesod-chesed.gif)
+
+### 7. Malchut: *(e.g. Emergence)*
+`The emergence of higher-order existence via the complex integration of a system’s elements only when that system interacts with a wider whole`
+
+![malchut](./animations/7-malchut-chesed.gif)
+
+# Getting Started with the Sefirot Visualizer
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+To run it, just follow the directions below. **NOTE**: *I haven't yet added buttons to move between the sefirot, so the only way to see all seven is to edit the `currentSefira` variable in the `App.tsx` file. `1` corresponds to the *Chesed*, `2` corresponds to `Gevurah` and so on...*
 
 ## Available Scripts
 
