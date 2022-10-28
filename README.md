@@ -8,37 +8,37 @@ Metaphysical forces, unlike scientific theorems, cannot be proven. Much like the
 
 ## Visualizations
 
-### 1. Chesed: *(e.g. Cosmic Inflation)*
+### 1. Chesed: *(e.g. [Cosmic Inflation](https://en.wikipedia.org/wiki/Inflation_(cosmology)))*
 `Partial definition: existence expressing itself within existence`
 
 ![chesed](./animations/1-chesed-chesed.gif)
 
-### 2. Gevurah: *(e.g. Dimension)*
+### 2. Gevurah: *(e.g. [Dimension](https://en.wikipedia.org/wiki/Dimension))*
 `Partial definition: the provision of boundaries in the expression of existence to create independence (in space, time, etc)`
 
 ![gevurah](./animations/2-gevurah-chesed.gif)
 
-### 3. Tiferet: *(e.g. Fractal Structure)*
+### 3. Tiferet: *(e.g. [Quantum Entanglement](https://scienceexchange.caltech.edu/topics/quantum-science-explained/entanglement))*
 `Partial definition: the perceivable connection between an existence and its expression`
 
 ![tiferet](./animations/3-tiferet-chesed.gif)
 
-### 4. Netzach: *(e.g. Quantum Wave Functions)*
+### 4. Netzach: *(e.g. [Quantum Waves](https://en.wikipedia.org/wiki/Wave_function))*
 `Partial definition: the assertion of value in the expression of existence through uniqueness`
 
 ![netzach](./animations/4-netzach-chesed.gif)
 
-### 5. Hod: *(e.g. Genetic Expression/Regulation)*
+### 5. Hod: *(e.g. [Gene Expression](https://www.nature.com/scitable/topicpage/gene-expression-14121669/))*
 `Partial definition: the recognition of existence in its expression actualizing some potentiality`
 
 ![hod](./animations/5-hod-chesed.gif)
 
-### 6. Yesod: *(e.g. Flowering Trees)*
+### 6. Yesod: *(e.g. [Flowers](https://en.wikipedia.org/wiki/Flower))*
 `Partial definition: the provision of a channel between an existence and external reality such that sharing becomes the foundation through which existence expresses itself`
 
 ![yesod](./animations/6-yesod-chesed.gif)
 
-### 7. Malchut: *(e.g. Emergence in Ant Colonies)*
+### 7. Malchut: *(e.g. [Ant Colony Intelligence](https://towardsdatascience.com/swarm-intelligence-inside-the-ant-colony-9ffbce22a736))*
 `Partial definition: the emergence of higher-order existence via the complex integration of a system’s elements only when that system interacts with a wider whole`
 
 ![malchut](./animations/7-malchut-chesed.gif)
