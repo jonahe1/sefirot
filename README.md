@@ -2,9 +2,9 @@
 
 This app models and visualizes the seven lower *sefirot* of Jewish metaphysics.
 
-The sefirot are very esoteric. Esoteric need not mean "unsystematic", as it often does in modern parlance. The sefirot, and the broader Kabbalistic system they are components of, have received as rigorous a treatment as any formal discipline. Notably, Leibniz, the famous mathematician and philosopher, was influenced by Kabbalah, and his mathematical and metaphysical [monads](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz#Monads) can be traced back to the Kabbalistic system of Rabbi Isaac Luria. Each sefirot can be understood as one of Leibniz's metaphysical monads.
+The sefirot are very esoteric. Esoteric need not mean "unsystematic", as it often does in modern parlance. The sefirot, and the broader Kabbalistic system they are components of, have received as rigorous a treatment as any formal discipline. Notably, Leibniz, the famous mathematician and philosopher, was influenced by Kabbalah, and his mathematical and metaphysical [monads](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz#Monads) can be traced back to the Kabbalistic system of [Rabbi Isaac Luria](https://www.britannica.com/biography/Isaac-ben-Solomon-Luria). Each sefirot can be understood as one of Leibniz's metaphysical monads.
 
-Metaphysical forces, unlike scientific theorems, cannot be proven. Much like the existence of the number *2* or the *+* operation, the sefirot are axioms. They are patterns that cannot be defined (what defines *"two-ness"*, exactly?),  patterns that exist above experience but can be nonetheless be experientially queried; the more pairs of objects you come across, the better your internal understanding of *two-ness* becomes, the more readily you can identify other instances of *two* in external reality. The sefirot, like their  natural number cousins, (translated literaly, sefirot means "numbers" or "sequence") can be experientially queried. The more connections one makes between a *sefira* and its various instantiations, the better one's understanding of it becomes. Modern science has provided beautiful examples of such symmetry, so I have chosen to highlight a particularly relevant example alongside each sefira. The sefirot (like monads), are fractal structures, however, so correspondence should exist at every level of analysis -- mathematical, physical, chemical, biological, psychological and social. Plumbing the phenomenological world for these links is a very fun task! If you  think of a connection, please don't hesitate to reach out.
+Metaphysical forces, unlike scientific theorems, cannot be proven. Much like the existence of the number *2* or the *+* operation, the sefirot are [axioms](https://en.wikipedia.org/wiki/Axiom). They are patterns that cannot be defined (what defines *"two-ness"*, exactly?),  patterns that exist above experience but can be nonetheless be experientially queried; the more pairs of objects you come across, the better your internal understanding of *two-ness* becomes, the more readily you can identify other instances of *two* in external reality. The sefirot, like their  natural number cousins, (translated literaly, sefirot means "numbers" or "sequence") can be experientially queried. The more connections one makes between a *sefira* and its various instantiations, the better one's understanding of it becomes. Modern science has provided beautiful examples of such symmetry, so I have chosen to highlight a particularly relevant example alongside each sefira. The sefirot (like monads), are fractal structures, however, so correspondence should exist at every level of analysis -- mathematical, physical, chemical, biological, psychological and social. Plumbing the phenomenological world for these links is a very fun task! If you  think of a connection, please don't hesitate to reach out.
 
 ## Visualizations
 
@@ -24,21 +24,21 @@ Metaphysical forces, unlike scientific theorems, cannot be proven. Much like the
 ![tiferet](./animations/3-tiferet-chesed.gif)
 
 ### 4. Netzach: *(e.g. Quantum Wave Functions)*
-`Partial definition: the assertion of value in the expression of existence through stochasticity`
+`Partial definition: the assertion of value in the expression of existence through uniqueness`
 
 ![netzach](./animations/4-netzach-chesed.gif)
 
-### 5. Hod: *(e.g. Energy)*
+### 5. Hod: *(e.g. Genetic Expression/Regulation)*
 `Partial definition: the recognition of existence in its expression actualizing some potentiality`
 
 ![hod](./animations/5-hod-chesed.gif)
 
-### 6. Yesod: *(e.g. Nuclear Fusion)*
+### 6. Yesod: *(e.g. Flowering Trees)*
 `Partial definition: the provision of a channel between an existence and external reality such that sharing becomes the foundation through which existence expresses itself`
 
 ![yesod](./animations/6-yesod-chesed.gif)
 
-### 7. Malchut: *(e.g. Emergence)*
+### 7. Malchut: *(e.g. Emergence in Ant Colonies)*
 `Partial definition: the emergence of higher-order existence via the complex integration of a system’s elements only when that system interacts with a wider whole`
 
 ![malchut](./animations/7-malchut-chesed.gif)
