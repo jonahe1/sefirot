@@ -2,13 +2,13 @@
 
 This app models and visualizes the seven lower [*sefirot*](https://www.britannica.com/topic/sefirot) of Jewish metaphysics. NOTE: These models are reductions meant for the purposes of demonstration and education. They are not to be taken as true simulations in any sense.
 
-The sefirot are very esoteric. Esoteric need not mean "unsystematic", however. The sefirot, and the broader Kabbalistic system they are components of, have received as rigorous a treatment as any formal discipline. Notably, Leibniz, the famous mathematician and philosopher, was influenced by Kabbalah, and his mathematical and metaphysical [monads](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz#Monads) can be traced back to the Kabbalistic system of [Rabbi Isaac Luria](https://www.britannica.com/biography/Isaac-ben-Solomon-Luria). Each sefirot can be understood as one of Leibniz's metaphysical monads.
+The sefirot are very esoteric. Esoteric need not mean "unsystematic", however. The sefirot, and the broader Kabbalistic system they are components of, have received as rigorous a treatment as any formal discipline. Notably, Leibniz, the famous mathematician and philosopher, was influenced by Kabbalah, and his mathematical and metaphysical [monads](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz#Monads) can be traced back to the Kabbalistic system of [Rabbi Isaac Luria](https://www.britannica.com/biography/Isaac-ben-Solomon-Luria). The sefirot can be understood as somewhat akin to Leibniz's metaphysical monads.
 
-Metaphysical forces, unlike scientific theorems, cannot be proven. Much like the existence of the number *2* or the *+* operation, the sefirot are [axioms](https://en.wikipedia.org/wiki/Axiom). They are patterns that cannot be defined (what defines *"two-ness"*, exactly?),  patterns that exist above experience but can be nonetheless be experientially queried; the more pairs of objects you come across, the better your internal understanding of *two-ness* becomes, the more readily you can identify other instances of *two* in external reality. The sefirot, like their  natural number cousins, (translated literaly, sefirot means "numbers" or "sequence") can be experientially queried. The more connections one makes between a *sefira* and its various instantiations, the better one's understanding of it becomes.
+Metaphysical forces, unlike mathematical theorems, cannot be proven. Much like the existence of the number *2* or the *+* operation, the sefirot are [axioms](https://en.wikipedia.org/wiki/Axiom). They are patterns that cannot be defined (what defines *"two-ness"*, exactly?), patterns that exist above experience but can be nonetheless be experientially queried. The more pairs of objects you come across in the world, the better your internal understanding of *two-ness* becomes, the more readily you can identify other instances of *two* in external reality. The sefirot, like their  natural number cousins, (translated literaly, sefirot means "sequence") can be experientially queried. The more connections one makes between a *sefira* and its various instantiations, the better one's understanding of it becomes.
 
-Modern science has provided beautiful examples of such symmetry, so I have chosen to highlight a particularly relevant example alongside each sefira. The sefirot (like monads), are [fractal](https://en.wikipedia.org/wiki/Fractal) structures, however, so correspondence should exist at every level of analysis -- mathematical, physical, chemical, biological, psychological and social. Plumbing the phenomenological world for these links is a very fun task! If you  think of a connection, please don't hesitate to reach out.
+Modern science has provided beautiful examples of such symmetry, so I have chosen to highlight a particularly relevant example alongside each sefira. The sefirot (like monads), are [fractal](https://en.wikipedia.org/wiki/Fractal) structures, however, so correspondence should exist at every level of analysis -- mathematical, physical, chemical, biological, psychological, social and spiritual. Plumbing the phenomenological world for these links is a very fun task! If you  think of a connection, please don't hesitate to reach out.
 
-These models, and my low-resolution understanding of the sefirot they are based on, are drawn from ideas in the [Midot HaYom series](https://www.thelivingtree.org/media-file/?file=audio%2Fmiddot%2Fintro+to+the+midat+hayom2.pdf) of Rabi Matis Weinberg.
+These models (and my rudementary understanding of the sefirot that they are based on) are drawn from ideas in the [Midot HaYom series](https://www.thelivingtree.org/media-file/?file=audio%2Fmiddot%2Fintro+to+the+midat+hayom2.pdf) of Rabbi Matis Weinberg.
 
 ## Visualizations
 
@@ -27,7 +27,7 @@ These models, and my low-resolution understanding of the sefirot they are based 
 
 ![tiferet](./animations/3-tiferet-chesed.gif)
 
-### 4. Netzach: *(e.g. [Quantum Waves](https://en.wikipedia.org/wiki/Wave_function))*
+### 4. Netzach: *(e.g. [Wave Functions](https://en.wikipedia.org/wiki/Wave_function))*
 `Partial definition: the assertion of value in the expression of existence through uniqueness`
 
 ![netzach](./animations/4-netzach-chesed.gif)
@@ -43,11 +43,12 @@ These models, and my low-resolution understanding of the sefirot they are based 
 ![yesod](./animations/6-yesod-chesed.gif)
 
 ### 7. Malchut: *(e.g. [Ant Colony Intelligence](https://towardsdatascience.com/swarm-intelligence-inside-the-ant-colony-9ffbce22a736))*
-`Partial definition: the emergence of higher-order existence via the complex integration of a system’s elements only when that system interacts with a wider whole`
+`Partial definition: the emergence of a higher-order existence via the complex integration of a system’s elements only when that system interacts with a wider whole`
 
 ![malchut](./animations/7-malchut-chesed.gif)
 
-# Getting Started with the Sefirot Visualizer
+
+# Developer Stuff
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
