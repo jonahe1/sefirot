@@ -33,7 +33,7 @@ These models (and my rudementary understanding of the sefirot that they are base
 ![netzach](./animations/4-netzach-chesed.gif)
 
 ### 5. Hod: *(e.g. [Gene Expression](https://www.nature.com/scitable/topicpage/gene-expression-14121669/))*
-`Lending recognition to the entire structure by yielding to some branches over others`
+`"Giving life" to the entire structure by yielding to some branches over others`
 
 ![hod](./animations/5-hod-chesed.gif)
 
@@ -42,7 +42,7 @@ These models (and my rudementary understanding of the sefirot that they are base
 
 ![yesod](./animations/6-yesod-chesed.gif)
 
-### 7. Malchut: *(e.g. [Ant Colony Intelligence](https://towardsdatascience.com/swarm-intelligence-inside-the-ant-colony-9ffbce22a736) – also Black Holes)*
+### 7. Malchut: *(e.g. [Ant Colony Intelligence](https://towardsdatascience.com/swarm-intelligence-inside-the-ant-colony-9ffbce22a736) and [Black Holes](https://en.wikipedia.org/wiki/Black_hole))*
 `The sustaining of connected infinities that emerge from and point back to the same source`
 
 ![malchut](./animations/7-malchut-chesed.gif)
