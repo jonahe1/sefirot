@@ -8,7 +8,7 @@ Metaphysical forces, unlike mathematical theorems, cannot be proven. Much like t
 
 Modern science has provided beautiful examples of such symmetry, so I have chosen to highlight a particularly relevant example alongside each sefira. The sefirot (like monads), are [fractal](https://en.wikipedia.org/wiki/Fractal) structures, however, so correspondence should exist at every level of analysis -- mathematical, physical, chemical, biological, psychological, social and spiritual. Plumbing the phenomenological world for these links is a very fun task! If you  think of a connection, please don't hesitate to reach out.
 
-These models (and my rudementary understanding of the sefirot that they are based on) are drawn from ideas in the [Midot HaYom series](https://www.thelivingtree.org/media-file/?file=audio%2Fmiddot%2Fintro+to+the+midat+hayom2.pdf) of Rabbi Matis Weinberg.
+These models (and my rudementary understanding of the sefirot that they are based on) are drawn from my teacher Rabbi Arye Borshtein and ideas found in the [Midot HaYom series](https://www.thelivingtree.org/media-file/?file=audio%2Fmiddot%2Fintro+to+the+midat+hayom2.pdf) of Rabbi Matis Weinberg.
 
 ## Visualizations
 
