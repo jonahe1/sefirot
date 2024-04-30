@@ -23,7 +23,7 @@ These models (and my rudementary understanding of the sefirot that they are base
 ![gevurah](./animations/2-gevurah-chesed.gif)
 
 ### 3. Tiferet: *(e.g. [Quantum Entanglement](https://scienceexchange.caltech.edu/topics/quantum-science-explained/entanglement))*
-`Arranging what is given to ultimately unlock an aspect of infinity within its branches`
+`Arranging what is given to unlock a new aspect of infinity within its branches`
 
 ![tiferet](./animations/3-tiferet-chesed.gif)
 
