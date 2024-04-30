@@ -42,7 +42,7 @@ These models (and my rudementary understanding of the sefirot that they are base
 
 ![yesod](./animations/6-yesod-chesed.gif)
 
-### 7. Malchut: *(e.g. [Ant Colony Intelligence](https://towardsdatascience.com/swarm-intelligence-inside-the-ant-colony-9ffbce22a736) and [Black Holes](https://en.wikipedia.org/wiki/Black_hole))*
+### 7. Malchut: *(e.g. [Ant Colony Intelligence](https://towardsdatascience.com/swarm-intelligence-inside-the-ant-colony-9ffbce22a736) or [Black Holes](https://en.wikipedia.org/wiki/Black_hole))*
 `The sustaining of connected infinities that emerge from and point back to the same source`
 
 ![malchut](./animations/7-malchut-chesed.gif)
