@@ -13,37 +13,37 @@ These models (and my rudementary understanding of the sefirot that they are base
 ## Visualizations
 
 ### 1. Chesed: *(e.g. [Cosmic Inflation](https://en.wikipedia.org/wiki/Inflation_(cosmology)))*
-`Giving infinity those that which gives infinity`
+`Giving infinity`
 
 ![chesed](./animations/1-chesed-chesed.gif)
 
 ### 2. Gevurah: *(e.g. [Dimension](https://en.wikipedia.org/wiki/Dimension))*
-`Holding back infinity to preserve its braches (establishing dimensions/boundaries)`
+`Holding back infinity to preserve the receiver (establishing dimensions/boundaries)`
 
 ![gevurah](./animations/2-gevurah-chesed.gif)
 
 ### 3. Tiferet: *(e.g. [Quantum Entanglement](https://scienceexchange.caltech.edu/topics/quantum-science-explained/entanglement))*
-`Arranging what is given to unlock a new aspect of infinity within its branches`
+`Cultivating microcosms of infinity within the finite`
 
 ![tiferet](./animations/3-tiferet-chesed.gif)
 
 ### 4. Netzach: *(e.g. [Wave Functions](https://en.wikipedia.org/wiki/Wave_function))*
-`Asserting values though the modulation of what is given to its branches`
+`Asserting infinity on finitude`
 
 ![netzach](./animations/4-netzach-chesed.gif)
 
 ### 5. Hod: *(e.g. [Gene Expression](https://www.nature.com/scitable/topicpage/gene-expression-14121669/))*
-`"Giving life" to the entire structure by yielding to some branches over others`
+`Sustaining finitude to make the infinite known`
 
 ![hod](./animations/5-hod-chesed.gif)
 
 ### 6. Yesod: *(e.g. [Flowers](https://en.wikipedia.org/wiki/Flower))*
-`Channeling the root infinity down into the branches`
+`Embedding a larger infinity into a greater infinity`
 
 ![yesod](./animations/6-yesod-chesed.gif)
 
 ### 7. Malchut: *(e.g. [Ant Colony Intelligence](https://towardsdatascience.com/swarm-intelligence-inside-the-ant-colony-9ffbce22a736) or [Black Holes](https://en.wikipedia.org/wiki/Black_hole))*
-`The sustaining of connected infinities that emerge from and point back to the same source`
+`The emergence of connected infinities that all point back to the same source`
 
 ![malchut](./animations/7-malchut-chesed.gif)
 
