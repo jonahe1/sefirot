@@ -1,6 +1,6 @@
 # Sefirot
 
-This app models and visualizes the seven lower [*sefirot*](https://www.britannica.com/topic/sefirot) of Jewish metaphysics. NOTE: These models are solely intended purposes of demonstration and education. They are not to be taken as true simulations in any sense.
+This app models and visualizes the seven lower [*sefirot*](https://www.britannica.com/topic/sefirot) of Jewish metaphysics. NOTE: These models are solely intended for the purposes of demonstration and education. They are not to be taken as wholly accurate simulations in any sense.
 
 The sefirot are very esoteric. Esoteric need not mean "unsystematic", however. The sefirot, and the broader Kabbalistic system they are components of, have received as rigorous a treatment as any formal discipline. Notably, Leibniz, the famous mathematician and philosopher, was influenced by Kabbalah, and his mathematical and metaphysical [monads](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz#Monads) can be traced back to the Kabbalistic system of [Rabbi Isaac Luria](https://www.britannica.com/biography/Isaac-ben-Solomon-Luria). The sefirot can be understood as somewhat akin to Leibniz's metaphysical monads.
 
