@@ -42,7 +42,7 @@ These models (and my rudementary understanding of the sefirot that they are base
 
 ![yesod](./animations/6-yesod-chesed.gif)
 
-### 7. Malchut: *(e.g. [Black Holes](https://en.wikipedia.org/wiki/Black_hole) or [Human Consciousness)(https://en.wikipedia.org/wiki/Consciousness)*
+### 7. Malchut: *(e.g. [Black Holes](https://en.wikipedia.org/wiki/Black_hole) or [Human Consciousness](https://en.wikipedia.org/wiki/Consciousness)*
 `The emergence of connected infinities that all point back to the same source`
 
 ![malchut](./animations/7-malchut-chesed.gif)
